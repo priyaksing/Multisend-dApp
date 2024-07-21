@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#content {
+    width: 700px;
+}
+
+#content-inner {
+    background-color: rgb(240, 240, 240);
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#title {
+    font-family: "Montserrat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+}
+
+#sub-title {
+    font-size: 1.5em;
+}
+
+#sub-title span {
+    border-bottom: 5px solid #085ED6;
+}
+
+.CSVImporter_Importer {
+    margin-top: 3em;
+}
